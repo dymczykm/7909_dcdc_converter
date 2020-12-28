@@ -13,19 +13,6 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-$Comp
-L marcin_library:TMR6 U1
-U 1 1 5E9E1524
-P 2800 3500
-F 0 "U1" H 2800 3625 50  0000 C CNN
-F 1 "TMR6" H 2800 3534 50  0000 C CNN
-F 2 "marcin_library:Traco_TMR6" H 2800 3500 50  0001 C CNN
-F 3 "" H 2800 3500 50  0001 C CNN
-	1    2800 3500
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	2300 3800 1650 3800
 Wire Wire Line
 	1650 3800 1650 3700
 Wire Wire Line
@@ -86,7 +73,7 @@ F 3 "https://www.analog.com/media/en/technical-documentation/data-sheets/3045fa.
 	1    0    0    -1  
 $EndComp
 $Comp
-L Regulator_Linear2:LT3094xMSE U3
+L dcdc_7909-rescue:LT3094xMSE-Regulator_Linear2 U3
 U 1 1 5E9E8A2D
 P 7150 4450
 F 0 "U3" H 7150 4917 50  0000 C CNN
@@ -891,4 +878,16 @@ F 3 "" H 8350 3800 50  0001 C CNN
 	1    8350 3800
 	1    0    0    -1  
 $EndComp
+$Comp
+L dcdc_7909-rescue:TMR6-marcin_library U1
+U 1 1 5E9E1524
+P 2800 3500
+F 0 "U1" H 2800 3625 50  0000 C CNN
+F 1 "TMR6" H 2800 3534 50  0000 C CNN
+F 2 "marcin_library:Traco_TMR6" H 2800 3500 50  0001 C CNN
+F 3 "" H 2800 3500 50  0001 C CNN
+	1    2800 3500
+	1    0    0    -1  
+$EndComp
+NoConn ~ 2300 3800
 $EndSCHEMATC
