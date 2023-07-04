@@ -3014,7 +3014,7 @@
     (property "Reference" "U1" (id 0) (at 67.945 27.94 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "LM2940-SOT223" (id 1) (at 67.945 41.275 0)
+    (property "Value" "LM2940-SOT223-15" (id 1) (at 67.945 25.4 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Footprint" "Package_TO_SOT_SMD:SOT-223" (id 2) (at 67.945 37.465 0)
@@ -3592,7 +3592,7 @@
     (property "Datasheet" "https://www.st.com/resource/en/datasheet/sm6t.pdf" (id 3) (at 45.085 38.735 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "DO NOT POPULATE" (id 4) (at 45.085 40.005 0)
+    (property "LCSC" "C80394" (id 4) (at 45.085 40.005 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 2fbeaf44-372d-4ea6-9c61-ef3791ea2023))
@@ -3910,7 +3910,7 @@
       (reference "TP2") (unit 1) (value "-10.5V") (footprint "TestPoint:TestPoint_Pad_D2.0mm")
     )
     (path "/412358be-81ab-4843-8889-7033ea63164a"
-      (reference "U1") (unit 1) (value "LM2940-SOT223") (footprint "Package_TO_SOT_SMD:SOT-223")
+      (reference "U1") (unit 1) (value "LM2940-SOT223-15") (footprint "Package_TO_SOT_SMD:SOT-223")
     )
     (path "/c702bc10-a5cf-47e6-8b8a-b42baf31c984"
       (reference "U2") (unit 1) (value "LT3471") (footprint "Package_DFN_QFN:DFN-10-1EP_3x3mm_P0.5mm_EP1.65x2.38mm")
