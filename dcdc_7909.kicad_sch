@@ -3546,7 +3546,7 @@
     (property "Reference" "D1" (id 0) (at 47.625 38.7349 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "SM6T15A" (id 1) (at 47.625 41.2749 90)
+    (property "Value" "P6SMB20A" (id 1) (at 47.625 41.2749 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Diode_SMD:D_SMB" (id 2) (at 40.005 40.005 0)
@@ -3555,7 +3555,7 @@
     (property "Datasheet" "https://www.st.com/resource/en/datasheet/sm6t.pdf" (id 3) (at 45.085 38.735 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C80394" (id 4) (at 45.085 40.005 0)
+    (property "LCSC" "C719321" (id 4) (at 45.085 40.005 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 2fbeaf44-372d-4ea6-9c61-ef3791ea2023))
@@ -3779,7 +3779,7 @@
       (reference "C22") (unit 1) (value "22u") (footprint "Capacitor_SMD:C_1206_3216Metric")
     )
     (path "/f11161ac-374d-4d0b-9af2-4499fab11bbf"
-      (reference "D1") (unit 1) (value "SM6T15A") (footprint "Diode_SMD:D_SMB")
+      (reference "D1") (unit 1) (value "P6SMB20A") (footprint "Diode_SMD:D_SMB")
     )
     (path "/368e7021-7891-43f1-98f4-75d38a18a3eb"
       (reference "D2") (unit 1) (value "D_Schottky") (footprint "Diode_SMD:D_PowerDI-123")
