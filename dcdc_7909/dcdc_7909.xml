@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/Users/dymczykm/Documents/elektronika/dcdc_7909/dcdc_7909.kicad_sch</source>
-    <date>2023 August 11, Friday 16:23:50</date>
+    <date>2023 August 13, Sunday 12:04:32</date>
     <tool>Eeschema (6.0.9-0)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -639,13 +639,13 @@
       <tstamps>01d5faf6-17e7-4e7f-8aa5-5c6fde0022c0</tstamps>
     </comp>
     <comp ref="R2">
-      <value>2k</value>
+      <value>2k05</value>
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <fields>
-        <field name="LCSC">C4109</field>
+        <field name="LCSC">C852693</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="LCSC" value="C4109"/>
+      <property name="LCSC" value="C852693"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="dcdc_7909.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -665,13 +665,13 @@
       <tstamps>90e51816-a1d4-45a7-942c-682d8cce5b3b</tstamps>
     </comp>
     <comp ref="R4">
-      <value>2k</value>
+      <value>2k05</value>
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <fields>
-        <field name="LCSC">C4109</field>
+        <field name="LCSC">C852693</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="LCSC" value="C4109"/>
+      <property name="LCSC" value="C852693"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="dcdc_7909.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
