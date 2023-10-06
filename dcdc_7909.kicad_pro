@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 0.6,
-          "width": 1.75
+          "drill": 0.5,
+          "height": 1.0,
+          "width": 1.0
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -64,6 +64,7 @@
         "clearance|84038000|56286400|5edf2c35-af30-49a7-baf3-4240f6371cd9|a3b95e14-fc72-4f14-bdbf-85806559ecd0",
         "clearance|84701200|62407800|df8e072f-62d8-4883-b254-226901ec85b5|fe167bb0-77a4-4fdb-af33-a21b36aa255f",
         "clearance|85336000|62157800|df8e072f-62d8-4883-b254-226901ec85b5|34509ca6-fd39-4c81-8829-4df57899494f",
+        "courtyards_overlap|110850601|62865001|00000000-0000-0000-0000-00005ea3b8d8|f9463bcb-9bf0-4b9b-815a-da1f50a87714",
         "courtyards_overlap|110850601|63220601|00000000-0000-0000-0000-00005ea3b8d8|f9463bcb-9bf0-4b9b-815a-da1f50a87714",
         "courtyards_overlap|111920001|64247201|5222d2b0-b3db-4d2b-9954-2dd7b6834519|f9463bcb-9bf0-4b9b-815a-da1f50a87714",
         "courtyards_overlap|115699999|64247201|00000000-0000-0000-0000-00005ea3b8d8|5222d2b0-b3db-4d2b-9954-2dd7b6834519",
@@ -87,12 +88,14 @@
         "courtyards_overlap|91699999|69868999|00000000-0000-0000-0000-00005ea3b7af|00000000-0000-0000-0000-00005ea5a693",
         "silk_over_copper|100100000|80000000|8877de96-0a82-4bb4-a658-8f2c1f9ea3e5|1a4b8291-aa34-4981-a385-c44fcbb23d48",
         "silk_over_copper|100634800|66544800|fbac5ea8-740c-458e-b660-8167c55f12b1|ed88a87b-1994-4edd-8d21-41642880cf2e",
+        "silk_over_copper|100951600|55000000|8877de96-0a82-4bb4-a658-8f2c1f9ea3e5|4377d924-3665-40fd-b822-c56f8683bacd",
         "silk_over_copper|101281800|80014000|8877de96-0a82-4bb4-a658-8f2c1f9ea3e5|14255b81-b878-4af0-98be-053e58719b4a",
         "silk_over_copper|101800000|80000000|8877de96-0a82-4bb4-a658-8f2c1f9ea3e5|7258872b-43b5-4f04-849f-169aee427b95",
         "silk_over_copper|102070600|60000000|8877de96-0a82-4bb4-a658-8f2c1f9ea3e5|4377d924-3665-40fd-b822-c56f8683bacd",
         "silk_over_copper|103800000|55000000|8877de96-0a82-4bb4-a658-8f2c1f9ea3e5|9100bff2-a9af-4161-ba7f-048e156fceef",
         "silk_over_copper|106100000|55000000|8877de96-0a82-4bb4-a658-8f2c1f9ea3e5|3d77193a-3f72-4869-8b0a-03ec496e4cd4",
         "silk_over_copper|107800000|55000000|8877de96-0a82-4bb4-a658-8f2c1f9ea3e5|b2782c9b-1658-4c21-9dcf-8c9b6121be97",
+        "silk_over_copper|111250000|64885000|8877de96-0a82-4bb4-a658-8f2c1f9ea3e5|fb2f94fc-1818-42dd-86ee-9d840a101e95",
         "silk_over_copper|111250000|65200000|8877de96-0a82-4bb4-a658-8f2c1f9ea3e5|490d3d28-d2bc-497c-8ce0-68bd89617eaf",
         "silk_over_copper|111250000|65240600|8877de96-0a82-4bb4-a658-8f2c1f9ea3e5|fb2f94fc-1818-42dd-86ee-9d840a101e95",
         "silk_over_copper|111250000|66900000|8877de96-0a82-4bb4-a658-8f2c1f9ea3e5|60d9f854-5427-495a-a864-930a5feb25f8",
@@ -102,6 +105,7 @@
         "silk_over_copper|91250000|56950000|8877de96-0a82-4bb4-a658-8f2c1f9ea3e5|1decff57-e1ff-4978-a036-a7c6b9040eb1",
         "silk_over_copper|91250000|58650000|8877de96-0a82-4bb4-a658-8f2c1f9ea3e5|2e53b962-6d56-422a-89a2-b6654188b8e7",
         "silk_over_copper|91250000|60950000|8877de96-0a82-4bb4-a658-8f2c1f9ea3e5|d9217130-b6c7-4b7c-bdb4-340f3f2b982c",
+        "silk_over_copper|91250000|63766000|8877de96-0a82-4bb4-a658-8f2c1f9ea3e5|a3c1330b-00ac-4c50-a849-57e1b060c731",
         "silk_over_copper|91250000|65266000|8877de96-0a82-4bb4-a658-8f2c1f9ea3e5|a3c1330b-00ac-4c50-a849-57e1b060c731",
         "silk_over_copper|91250000|69494400|8877de96-0a82-4bb4-a658-8f2c1f9ea3e5|fa964134-d31c-4adf-8435-6216e97be306",
         "silk_over_copper|97800000|80000000|8877de96-0a82-4bb4-a658-8f2c1f9ea3e5|0ab2fb7b-a8b8-4f5a-9ccd-b335b9c08d93",
@@ -452,7 +456,7 @@
     "classes": [
       {
         "bus_width": 12.0,
-        "clearance": 0.2,
+        "clearance": 0.1524,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.25,
@@ -462,7 +466,7 @@
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.25,
+        "track_width": 0.1524,
         "via_diameter": 0.8,
         "via_drill": 0.4,
         "wire_width": 6.0
