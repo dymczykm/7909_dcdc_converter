@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/Users/dymczykm/Documents/elektronika/dcdc_7909/dcdc_7909.kicad_sch</source>
-    <date>2023 October 17, Tuesday 14:16:30</date>
+    <date>2023 October 18, Wednesday 10:17:27</date>
     <tool>Eeschema (6.0.9-0)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -84,7 +84,7 @@
     </comp>
     <comp ref="C5">
       <value>2u2</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
       <fields>
         <field name="LCSC">C50254</field>
       </fields>
@@ -182,7 +182,7 @@
     </comp>
     <comp ref="C12">
       <value>2u2</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
       <fields>
         <field name="LCSC">C50254</field>
       </fields>

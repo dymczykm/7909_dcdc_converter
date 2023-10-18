@@ -3,7 +3,7 @@ Comment,Designator,Footprint,LCSC
 "10n","C11,C20,C25","Capacitor_SMD:C_0402_1005Metric","C15195"
 "22u","C18,C23","Capacitor_SMD:C_1206_3216Metric","C12891"
 "100n","C4,C7,C10,C13,C14","Capacitor_SMD:C_0402_1005Metric","C307331"
-"2u2","C5,C12","Capacitor_SMD:C_0805_2012Metric","C50254"
+"2u2","C5,C12","Capacitor_SMD:C_1206_3216Metric","C50254"
 "P6SMB20A","D1","Diode_SMD:D_SMB","C719321"
 "LED","D2,D3","LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder","DO NOT POPULATE"
 "600Ω@100MHz","FB1,FB2","Resistor_SMD:R_0805_2012Metric","C1017"
